@@ -1,5 +1,5 @@
-tkinter
+streamlit
 pandas
-pickle
-matplotlib.pyplot
+numpy
+scikit-learn
 matplotlib
